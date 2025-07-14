@@ -1,21 +1,19 @@
 # Description
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+<!-- Please include a summary of the changes and the related issue. Please also include relevant motivation and context. -->
 
-Fixes # (issue)
-
-Depends on # (other pull requests)
-
+<!-- List any other pull requests that this change depends on. -->
 
 # How Has This Been Tested?
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+<!-- Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration -->
 
 - [ ] Tested on Hardware
 - [ ] Tested in Simulation
 
 **Test Configuration**:
-(add any information here if using a non typical setup)
+
+<!-- (add any information here if using a non typical setup) -->
 
 # Checklist:
 
